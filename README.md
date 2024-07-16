@@ -40,4 +40,4 @@ Topics Covered in first 3 package (ex_07072024, ex_13072024, ex_14072024)
         5. String Constant Pool (SCP)
         6. Heap area
         7. JVM [class loader, heap, scp]
-    6. DODMAS Rule [Cover add of strings chars and add of mix num and char and add of mix using modulus]
+    6. BODMAS Rule [Cover add of strings chars and add of mix num and char and add of mix using modulus]
